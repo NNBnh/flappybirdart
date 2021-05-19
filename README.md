@@ -13,7 +13,7 @@
     <th><a href="https://github.com/NNBnh/flappybirdart/blob/main/title.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/title.png" alt="title.png"></a></th>
   </tr>
   <tr>
-    <th><a href="https://github.com/NNBnh/flappybirdart/blob/main/base.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/base.png" alt="base.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/base.png" alt="base.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/base.png" alt="base.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/base.png" alt="base.png"></a></th>
+    <th><a href="https://github.com/NNBnh/flappybirdart/blob/main/baseLong.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/baseLong.png" alt="baseLong.png"></a></th>
   </tr>
   <tr>
     <th colspan="2"><a href="https://github.com/NNBnh/flappybirdart/blob/main/score.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/score.png" alt="score.png"></a></th>
@@ -21,4 +21,4 @@
   </tr>
 </table>
 
-<p align="center"><a href="https://github.com/NNBnh/flappybirdart/blob/main/ui.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/ui.png" alt="ui.png"></a></p>
+<p align="center"><a href="https://github.com/NNBnh/flappybirdart/blob/main/ui.png"><img width="40%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/ui.png" alt="ui.png"></a></p>
