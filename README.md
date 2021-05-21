@@ -11,28 +11,36 @@ The purpose of this repo is to manage resources for [Lê Đức](https://github.
 |-|-|
 |[![bgDay.png](https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/bgDay.png)](https://github.com/NNBnh/flappybirdart/blob/main/bgDay.png)|[![bgNight.png](https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/bgNight.png)](https://github.com/NNBnh/flappybirdart/blob/main/bgNight.png)|
 
+<br><br>
+
 <table>
   <tr>
     <th rowspan="2"><a href="https://github.com/NNBnh/flappybirdart/blob/main/pipeBottom.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/pipeBottom.png" alt="pipeBottom.png"></a></th>
     <th rowspan="2"><a href="https://github.com/NNBnh/flappybirdart/blob/main/pipeTop.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/pipeTop.png" alt="pipeTop.png"></a></th>
     <th rowspan="3"><a href="https://github.com/NNBnh/flappybirdart/blob/main/coin.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/coin.png" alt="coin.png"></a></th>
-    <th><a href="https://github.com/NNBnh/flappybirdart/blob/main/title.png"><img width="75%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/title.png" alt="title.png"></a></th>
+    <th><a href="https://github.com/NNBnh/flappybirdart/blob/main/title.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/title.png" alt="title.png"></a></th>
   </tr>
   <tr>
-    <th><a href="https://github.com/NNBnh/flappybirdart/blob/main/score.png"><img width="75%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/score.png" alt="score.png"></a></th>
+    <th><a href="https://github.com/NNBnh/flappybirdart/blob/main/baseLong.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/baseLong.png" alt="baseLong.png"></a></th>
   </tr>
   <tr>
-    <th colspan="2">
-      <a href="https://github.com/NNBnh/flappybirdart/blob/main/m0.png"><img width="20%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m0.png" alt="m0.png"></a>
-      <a href="https://github.com/NNBnh/flappybirdart/blob/main/m1.png"><img width="20%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m1.png" alt="m1.png"></a>
-      <a href="https://github.com/NNBnh/flappybirdart/blob/main/m2.png"><img width="20%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m2.png" alt="m2.png"></a>
-    </th>
-    <th><a href="https://github.com/NNBnh/flappybirdart/blob/main/base.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/baseLong.png" alt="baseLong.png"></a></th>
+    <th colspan="2"><a href="https://github.com/NNBnh/flappybirdart/blob/main/score.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/score.png" alt="score.png"></a></th>
+    <th><a href="https://github.com/NNBnh/flappybirdart/blob/main/trophy.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/trophy.png" alt="trophy.png"></a></th>
   </tr>
 </table>
 
+<br><br>
+
 <p align="center"><a href="https://github.com/NNBnh/flappybirdart/blob/main/ui.png"><img width="40%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/ui.png" alt="ui.png"></a></p>
 <p align="center"><a href="https://github.com/NNBnh/flappybirdart/blob/main/prompt.png"><img width="40%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/prompt.png" alt="prompt.png"></a></p>
+
+<br><br>
+
+<p align="center">
+  <a href="https://github.com/NNBnh/flappybirdart/blob/main/m0.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m0.png" alt="m0.png"></a>
+  <a href="https://github.com/NNBnh/flappybirdart/blob/main/m1.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m1.png" alt="m1.png"></a>
+  <a href="https://github.com/NNBnh/flappybirdart/blob/main/m2.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m2.png" alt="m2.png"></a>
+</p>
 
 ## 💌 Credits
 Special thanks to:
