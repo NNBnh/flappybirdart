@@ -1,6 +1,6 @@
 <h1 align="center">FlappyChim's assets</h1>
 <p align="center">FlappyBird-like assets for <a href="https://github.com/20021515/FlappyChim-2.0">Lê Đức's game</a></p>
-<p align="center"><img width="%50" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/icon.png"></p>
+<p align="center"><img width="25%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/icon.png"></p>
 <p align="center"><a href="https://github.com/NNBnh/flappybirdart/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/flappybirdart?labelColor=71AA34&color=B6D53C&style=for-the-badge" alt="License: CC0-1.0 "></a> <img src="https://img.shields.io/badge/development-completed-%23B6D53C.svg?labelColor=71AA34&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></p>
 <p align="center"><a href="https://github.com/NNBnh/flappybirdart/watchers"><img src="https://img.shields.io/github/watchers/NNBnh/flappybirdart?labelColor=71AA34&color=B6D53C&style=flat-square"></a> <a href="https://github.com/NNBnh/flappybirdart/stargazers"><img src="https://img.shields.io/github/stars/NNBnh/flappybirdart?labelColor=71AA34&color=B6D53C&style=flat-square"></a> <a href="https://github.com/NNBnh/flappybirdart/network/members"><img src="https://img.shields.io/github/forks/NNBnh/flappybirdart?labelColor=71AA34&color=B6D53C&style=flat-square"></a> <a href="https://github.com/NNBnh/flappybirdart/issues"><img src="https://img.shields.io/github/issues/NNBnh/flappybirdart?labelColor=71AA34&color=B6D53C&style=flat-square"></a></p>
 
@@ -20,9 +20,9 @@ The purpose of this repo is to manage resources for [Lê Đức](https://github.
   </tr>
   <tr>
     <th>
-      <a href="https://github.com/NNBnh/flappybirdart/blob/main/m0.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m0.png" alt="m0.png"></a>
-      <a href="https://github.com/NNBnh/flappybirdart/blob/main/m1.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m1.png" alt="m1.png"></a>
-      <a href="https://github.com/NNBnh/flappybirdart/blob/main/m2.png"><img src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m2.png" alt="m2.png"></a>
+      <a href="https://github.com/NNBnh/flappybirdart/blob/main/m0.png"><img width="20%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m0.png" alt="m0.png"></a>
+      <a href="https://github.com/NNBnh/flappybirdart/blob/main/m1.png"><img width="20%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m1.png" alt="m1.png"></a>
+      <a href="https://github.com/NNBnh/flappybirdart/blob/main/m2.png"><img width="20%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/m2.png" alt="m2.png"></a>
     </th>
   </tr>
   <tr>
