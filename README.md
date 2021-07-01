@@ -1,7 +1,7 @@
 <h1 align="center">FlappyChim's assets</h1>
 <p align="center">FlappyBird-like assets for <a href="https://github.com/20021515/FlappyChim-2.0">Lê Đức's game</a></p>
 <p align="center"><img width="40%" src="https://raw.githubusercontent.com/NNBnh/flappybirdart/main/up/icon.png"></p>
-<p align="center"><a href="https://github.com/NNBnh/flappybirdart/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/flappybirdart?labelColor=71AA34&color=B6D53C&style=for-the-badge" alt="License: CC0-1.0 "></a> <img src="https://img.shields.io/badge/development-completed-%23B6D53C.svg?labelColor=71AA34&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></p>
+<p align="center"><a href="https://github.com/NNBnh/flappybirdart/blob/main/LICENSE"><img src="https://img.shields.io/github/license/NNBnh/flappybirdart?labelColor=71AA34&color=B6D53C&style=for-the-badge" alt="License: CC0-1.0 "></a> <a href="https://gist.github.com/NNBnh/9ef453aba3efce26046e0d3119dab5a7#development-completed"><img src="https://img.shields.io/badge/development-completed-%23B6D53C.svg?labelColor=71AA34&style=for-the-badge&logoColor=FFFFFF" alt="Development completed"></a></p>
 
 ## 💡 About
 The purpose of this repo is to manage resources for [Lê Đức](https://github.com/20021515)'s homework. Some of the images in this repo are taken from external sources (with a light recolor and edit) and are only included here for convenience purposes, other than that all images shown below are drawn by me:
